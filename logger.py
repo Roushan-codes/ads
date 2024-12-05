@@ -30,3 +30,4 @@ def critical(text):
 
 def success(text):
     return logger.success(text)
+    
